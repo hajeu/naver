@@ -9,7 +9,7 @@ div{
 .lang-select{
     display: flex;
 }
-.lang-option{
+.lang-options{
     width: 100px;
     height: 30px;
     font-size: 12px;
